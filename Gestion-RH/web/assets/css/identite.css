@@ -1,0 +1,18 @@
+.tranche{
+    /* background-color: black; */
+    height: max-content;
+}
+
+.note{
+    margin-left: 80%;
+    /* background-color: black; */
+}
+
+.inputNumber{
+    width: 130%;
+}
+
+.text-tranche{
+    margin-top: 5%;
+    text-align: center;
+}
